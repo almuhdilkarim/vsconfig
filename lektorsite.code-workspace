@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "compose",
+			"path": "."
+		},
+		{
+			"name": "themes",
+			"path": "../website/lektor/themes"
+		},
+		{
+			"path": "../website/lektor/svelbol"
+		}
+	],
+	"settings": {}
+}
